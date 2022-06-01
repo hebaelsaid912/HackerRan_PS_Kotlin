@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02bd1ab6-8ef3-459e-868a-36013f98f1ee" name="Changes" comment="solve countApplesAndOranges problem &#10;link: https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TimeConversion.kt" afterDir="false" />
+    <list default="true" id="02bd1ab6-8ef3-459e-868a-36013f98f1ee" name="Changes" comment="solve timeConversion problem &#10;link: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BirthdayCakeCandles.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TimeConversionKt">
+  <component name="RunManager" selected="Kotlin.BirthdayCakeCandlesKt">
     <configuration name="AppleAndOrangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppleAndOrangeKt" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirthdayCakeCandlesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BirthdayCakeCandlesKt" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BirthdayCakeCandlesKt" />
         <item itemvalue="Kotlin.TimeConversionKt" />
         <item itemvalue="Kotlin.AppleAndOrangeKt" />
       </list>
@@ -75,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654076060956</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solve timeConversion problem &#10;link: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true">
+      <created>1654077041818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654077041818</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve countApplesAndOranges problem &#10;link: https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve countApplesAndOranges problem &#10;link: https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true" />
+    <MESSAGE value="solve timeConversion problem &#10;link: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve timeConversion problem &#10;link: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true" />
   </component>
 </project>
